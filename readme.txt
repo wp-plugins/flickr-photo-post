@@ -39,15 +39,14 @@ Follow the steps below to install and acrivate the Flickr Wordpress Plugin
 
 == Frequently Asked Questions ==
 
-TODO
+= What flickr license types are used by flickr wordpress plugin for displaying Flickr images? =
 
-= A question that someone might have =
+The flickr wordpress plugin will select images published only under the following licenses:
 
-An answer to that question.
+[Attribution License](http://creativecommons.org/licenses/by/2.0/)
+[Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/2.0/)
+[Attribution-NoDerivs License](http://creativecommons.org/licenses/by-nd/2.0/)
 
-= What about foo bar? =
-
-Answer to foo bar dilemma.
 
 == Screenshots ==
 
