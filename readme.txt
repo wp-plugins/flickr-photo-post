@@ -27,13 +27,19 @@ This section describes how to install the plugin and get it working.
 Follow the steps below to install and acrivate the Flickr Wordpress Plugin
 
 1. Login to your Wordpress  Blog
+
 2. Go to Plugins > Add New 
-3. Select Upload
-   Upload the flickr-wordpress-plugin.zip file and click Install now
+
+3. Select Upload (Upload the flickr-wordpress-plugin.zip file and click Install now)
+
 4. Activate the Plugin 
+
 5. You are now ready to use the Flickr Wordpress Plugin
 
+
 == Frequently Asked Questions ==
+
+TODO
 
 = A question that someone might have =
 
@@ -48,15 +54,25 @@ Answer to foo bar dilemma.
 In screenshots 1-10.png you can find a description of how to work with the flickr wordpress plugin. 
 
 1. Add an image button in "Edit Post" dialog
+
 2. Select the new "Flickr" tab in the "Add an Image" dialog
+
 3. How to enter a search Term
+
 4. How to select an image from the search result
+
 5. Specify the alignment (optional)
+
 6. Optionally you can crop a rectangular area from the image
+
 7. How to insert the image into the post
+
 8. The image result in your wordpress post
+
 9. Optionalily you can edit the image with the "Edit Image" function
+
 10. The "Edit Image" dialog
+
 
 == Changelog ==
 
@@ -68,18 +84,25 @@ In screenshots 1-10.png you can find a description of how to work with the flick
 = 1.0 =
 * First public version
 
-== A brief Markdown Example ==
+== Key Features ==
 
-Ordered list:
-
-Key Features:
 1. Use 100 million free images from flickr
+
 2. Full text flickr search box
+
 3. The Local Image Cache provides an immediate performance benefit
+
 4. Nofollow link to the author’s flickr site included
+
 5. Nice full featured, Ajax powered interface
+
 6. Support for Wordpress Image-Caption code
+
 7. High usability by use of easy interaction components 
+
 8. Select image size from 100 to 640 pixel on the longest side.
+
 9. You can crop a photo if you need only a rectangular part of the image
+
 10. Multilanguage I18n:  English and German Language Support
+
