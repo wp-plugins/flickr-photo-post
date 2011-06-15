@@ -1,0 +1,53 @@
+# Copyright (C) 2010 Flickr Photo Post
+# This file is distributed under the same license as the Flickr Photo Post package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flickr Photo Post 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flickr-photo-post\n"
+"POT-Creation-Date: 2011-03-31 06:45:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Michael Jentsch <M.Jentsch@web.de>\n"
+"Language-Team: Michael Jentsch <M.Jentsch@web.de>\n"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "And-Search"
+msgstr "UND-Suche"
+
+msgid "Or-Search"
+msgstr "ODER-Suche"
+
+msgid "Search Images"
+msgstr "Bilder suchen"
+
+msgid "SafeSearch"
+msgstr "SafeSearch"
+
+msgid "Please enter a search term"
+msgstr "Bitte geben Sie einen Suchbegriff ein"
+
+msgid "No more images matching"
+msgstr "Keine weiteren Bilder zum Suchbegriff"
+
+msgid "on the longest side"
+msgstr "an der längsten Seite"
+
+msgid "Flickr Photo Post"
+msgstr ""
+
+msgid "http://www.m-software.de/wordpress-plugin/"
+msgstr ""
+
+msgid "Add flickr photos to your posts."
+msgstr ""
+
+msgid "Michael Jentsch"
+msgstr ""
+
+msgid "http://www.m-software.de/"
+msgstr ""
+

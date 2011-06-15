@@ -1,0 +1,41 @@
+
+#simpleslider-wrapper {
+margin:1px;
+margin-top:5px;
+background: #fafafa;
+border: 1px solid #eee;
+width:550px;
+float:left;
+}
+#simpleslider .frame {
+padding:8px;
+font-family: Hel­vetica, Arial, sans-serif;
+font-size: 20px;
+font-weight: bold;
+color: #999;
+line-height: 1.6em;
+}
+#simpleslider-previous_button {
+float:left;
+background-image:none!important;
+width:10px;
+}
+#simpleslider-next_button {
+background-image:none!important;
+width:10px;
+}
+
+#flickrImages {
+width:520px;
+height:520px;
+margin-bottom:20px;
+padding-top:10px;
+}
+
+label.align {
+display: inline;
+padding: 0 0 0 22px;
+margin: 0 1em 0 0;
+font-weight: bold;
+}
+
