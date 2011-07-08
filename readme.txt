@@ -4,7 +4,7 @@ Donate link: http://m-software.de/
 Tags: flickr, photo, image, jpg, png, crop, simple
 Requires at least: 2.8
 Tested up to: 3.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 The Flickr Wordpress Plugin allows you to add flickr images to your wordpress posts incl. a simple crop function.
 
@@ -75,6 +75,9 @@ In screenshots 1-10.png you can find a description of how to work with the flick
 
 == Changelog ==
 
+= 1.2 =
+* Small bugfix ;-)
+
 = 1.1 =
 * Solved Problem with get_option()
 
@@ -82,6 +85,9 @@ In screenshots 1-10.png you can find a description of how to work with the flick
 * First public vesion 
 
 == Upgrade Notice ==
+
+= 1.2 =
+* Small bugfix ;-)
 
 = 1.1 =
 * Solved Problem with get_option()
