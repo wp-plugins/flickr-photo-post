@@ -75,10 +75,16 @@ In screenshots 1-10.png you can find a description of how to work with the flick
 
 == Changelog ==
 
+= 1.1 =
+* Solved Problem with get_option()
+
 = 1.0 =
 * First public vesion 
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Solved Problem with get_option()
 
 = 1.0 =
 * First public version
