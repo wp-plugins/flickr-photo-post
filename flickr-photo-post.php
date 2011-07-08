@@ -17,7 +17,7 @@ define ('WP_FLICKR_PLUGIN_DIR', WP_PLUGIN_DIR . '/flickr-photo-post');
 define ('WP_FLICKR_PLUGIN_URL', WP_PLUGIN_URL . '/flickr-photo-post');
 
 /* Plugin nur laden, wenn media-upload.php geöffnet wird */
-if ($_SERVER["SCRIPT_NAME"] == "/wp-admin/media-upload.php")
+if (basename($_SERVER["SCRIPT_NAME"]) == "media-upload.php")
 {
 	add_filter( 'media_upload_tabs', 'flickr_media_upload_tabs');
 	add_action('media_upload_flickr', 'media_upload_flickr');
