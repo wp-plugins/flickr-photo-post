@@ -3,7 +3,7 @@
 Plugin Name: Flickr Photo Post
 Plugin URI: http://www.m-software.de/flickr-photo-post
 Description: Add flickr photos to your posts. 
-Version: 1.2
+Version: 1.2.1
 Author: Michael Jentsch
 Author URI: http://www.m-software.de/
 
