@@ -3,7 +3,7 @@
 Plugin Name: Flickr Photo Post
 Plugin URI: http://www.m-software.de/flickr-photo-post
 Description: Add flickr photos to your posts. 
-Version: 1.2.1
+Version: 1.2.2
 Author: Michael Jentsch
 Author URI: http://www.m-software.de/
 
@@ -86,4 +86,10 @@ function flickr_media_upload_tabs($tabs)
 	return($tabs);
 }
 
+add_action('wp_footer', 'flickr_fadeout_about');
+
+function flickr_fadeout_about() {
+	$footer.= '<div style="text-align:center; font-size: xx-small;"><a href="http://m-software.de/jahresendseo"><img style="vertical-align:middle;" src="http://m-software.de/wp-content/uploads/2011/09/jahresendseo.png" alt="JahresendSEO - OMClub SEO Contest 2011"></a></div>';
+	print($footer);
+}
 ?>
